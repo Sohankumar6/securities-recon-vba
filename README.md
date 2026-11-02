@@ -64,8 +64,8 @@ Vendor B is a copy of Vendor A with **18 deliberately planted errors** across 9 
 
 ## Screenshots
 
-![Vendor B with highlighted discrepancies](vendor_b_highlights.png)
-![Reconciliation results and summary](recon_results.png)
+![Vendor B with highlighted discrepancies](vendor_b_highlights.png.png)
+![Reconciliation results and summary](recon_results.png.png)
 
 ## Source
 
