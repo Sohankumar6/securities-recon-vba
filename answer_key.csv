@@ -1,0 +1,19 @@
+ISIN,Planted issue,Vendor A value,Vendor B value
+XS7848018457,Price mismatch,89.631,80.668
+US9973763116,Price mismatch,93.207,83.886
+GB00BFWFPP71,Price mismatch,57.361,51.625
+GB00B1VWPJ53,Price mismatch,49.708,54.679
+GB00BWBR1P52,Coupon mismatch,4.625,4.875
+GB00BPJJKP77,Coupon mismatch,4.75,5.0
+GB00BJQWYH73,Maturity mismatch,2041-10-22,2042-10-22
+XS0164005240,Maturity mismatch,2042-03-15,2043-03-15
+GB00BDCHBW80,Missing maturity in Vendor B,2047-07-22,
+XS6299468047,Missing maturity in Vendor B,2033-05-15,
+GB00BVP99566,Missing maturity in Vendor B,2029-05-22,
+GB00BQC82C90,Currency mismatch,GBP,EUR
+GB0047143457,Price outlier (+50%),16.16,24.24
+US4828148936,Missing from Vendor B,,
+GB00BVP99780,Missing from Vendor B,,
+XS5314737998,Missing from Vendor A,,
+XS0752735455,Missing from Vendor A,,
+GB00BL6C7720,Duplicate ISIN in Vendor B,,
